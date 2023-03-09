@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning web development to help me on my quest to expand my skills from embedded software engineering on microcontrollers and robots
 ---  to full stack development! I have always enjoyed learning and have recently decided to try my hand with accelerated online courses as a means to further my education
----  without specializing into a masters program (and spending money I'm not willing to part on a direction I'm not entirelyt set on atm).
 
 - 💞️ I’m looking to collaborate on full stack development projects. Any and all. I need more experience to make myself more capable in that space.
 
